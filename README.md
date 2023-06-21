@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rohmaneo
+- 👋 Hi, I’m @rohmaneo, PhD student in Institute of Geodesy and Geoinformation Science, TU Berlin
 - 👀 I’m interested in GIS, Remote Sensing, and Geoinformation
 - 🌱 I’m currently learning earthengine, R, and python
 - 💞️ I’m looking to collaborate on doing research in the above topic
